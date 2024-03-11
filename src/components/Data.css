@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(228, 170, 77);
+
+}
+.container {
+    text-align: center;
+    justify-content: center;
+    display: flex; 
+    flex-direction: column;
+    padding: 2rem 12rem;
+}
+
+.btn {
+    border: none;
+    padding: .5rem .9rem;
+    border-radius: 5px;
+    background-color: rgb(230, 146, 20);
+    margin-left: 1rem;
+    color: #FFF;
+    font-weight: 700;
+    cursor: pointer;
+}
+
+input {
+    border: none;
+    padding: .5rem .9rem;
+    border-radius: 5px;
+    margin-left: 1rem;    
+}
+
+.para {
+    color: #FFFFFF;
+    margin-top: 2rem;
+    box-shadow:  0 0 10px  rgb(237, 197, 132);
+    border-radius: 5px;
+    padding: 1.5rem 2rem;
+}
